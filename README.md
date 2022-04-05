@@ -5,3 +5,5 @@ Don't forget to set expiration date to never and I recomend to not user pastebin
 I STRONGLY RECOMEND TO USE EDITABLE PASTE BIN!
 
 if you have webhosting you can just create txt file, upload it to the server data and then acces it from code like this: "yourDomain.com/theTxtFile.txt"
+
+Soon I'll do forms version for those, who can't convert this procet to forms by themselfs
